@@ -1,4 +1,3 @@
-console.log("Book Journal funcionando");
 function mostrarPagina(pagina) {
 
     const contenido =
