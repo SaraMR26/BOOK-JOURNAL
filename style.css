@@ -1,0 +1,38 @@
+body {
+
+    margin: 0;
+
+    background-color: #e5f7fa;
+
+    color: #333;
+
+    font-family: Georgia, serif;
+
+}
+
+
+header {
+
+    text-align: center;
+
+    padding: 30px;
+
+}
+
+
+h1 {
+
+    font-size: 32px;
+
+}
+
+
+main {
+
+    max-width: 900px;
+
+    margin: auto;
+
+    padding: 20px;
+
+}
